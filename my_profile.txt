@@ -1,0 +1,4 @@
+name: Thitipong Suthinont
+email: ken_thitipong@hotmail.com
+pseudonym: JT
+hobbies: playing soccer
